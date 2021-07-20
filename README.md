@@ -2,10 +2,10 @@
 
 ### Hi there, I'm Ashley 👋
 
-## I'm a 2nd year Computer Science student in NUS!
+## I'm a 3rd year Computer Science student in NUS!
 
 - ⚽ I'm an aspiring software developer who loves sports!
-- 🔭 I’m currently working on Sort-Algo, a sorting visualiser.
+- 🔭 I’m currently interning at GIC, and is working on a workflow engine application.
 - 👯 I’m looking to collaborate with other developers.
 
 ### Connect with me:
@@ -54,4 +54,4 @@
 </details>
 
 <!-- [website]: <my website> -->
-[linkedin]: https://www.linkedin.com/in/ashley-lau-625237163/
+[linkedin]: https://www.linkedin.com/in/ashleyljh/
