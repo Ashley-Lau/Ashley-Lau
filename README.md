@@ -5,7 +5,7 @@
 ## I'm a 3rd year Computer Science student in NUS!
 
 - ⚽ I'm an aspiring software developer who loves sports!
-- 🔭 I’m recently ended my internship at GIC, and is currently looking for the next internship!
+- 🔭 I recently ended my internship at GIC, and is currently looking for the next internship!
 - 👯 I’m looking to collaborate with other developers.
 
 ### Connect with me:
