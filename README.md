@@ -2,10 +2,10 @@
 
 ### Hi there, I'm Ashley 👋
 
-## I'm a 3rd year Computer Science student in NUS!
+## I'm a final year Computer Science student in NUS!
 
 - ⚽  I'm an aspiring software developer who loves sports!
-- 🔭  I'm currently interning a a fullstack developer at GIC, and is currently looking for the next internship!
+- 🔭  I'm recently ended my internship with motional, and is currently looking for the next full time employment!
 - 👯  I'm looking to collaborate with other developers.
 
 ### Connect with me:
