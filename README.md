@@ -2,11 +2,11 @@
 
 ### Hi there, I'm Ashley 👋
 
-## I'm a final year Computer Science student in NUS!
+## I'm an associate software engineer who recently graduated from Computer Science at NUS!
 
-- ⚽  I'm an aspiring software developer who loves sports!
-- 🔭  I'm recently ended my internship with motional, and is currently looking for the next full time employment!
-- 👯  I'm looking to collaborate with other developers.
+- ⚽  I'm a software developer who loves sports and is intrigued by financial markets!
+- 🔭  I recently started my first full-time role in Southern Ridges capital.
+- 📈  I'm looking model financial models for stock prediction.
 
 ### Connect with me:
 <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
